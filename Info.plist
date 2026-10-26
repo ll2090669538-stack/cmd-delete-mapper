@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>              <string>CmdDelMapper</string>
+    <key>CFBundleDisplayName</key>       <string>一键删除映射器</string>
+    <key>CFBundleExecutable</key>        <string>CmdDelMapper</string>
+    <key>CFBundleIdentifier</key>        <string>cn.qwenwork.tools.cmddelmapper</string>
+    <key>CFBundleVersion</key>           <string>1.0</string>
+    <key>CFBundleShortVersionString</key><string>1.0</string>
+    <key>CFBundlePackageType</key>       <string>APPL</string>
+    <key>CFBundleIconFile</key>          <string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key>    <string>11.0</string>
+    <key>LSUIElement</key>               <true/>
+    <key>NSHighResolutionCapable</key>   <true/>
+    <key>NSPrincipalClass</key>          <string>NSApplication</string>
+    <key>NSSupportsAutomaticGraphicsSwitching</key> <true/>
+</dict>
+</plist>
